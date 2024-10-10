@@ -29,7 +29,7 @@ You can run the notebook directly on Google Colab by clicking the link below:
 ```python
 pval_threshold = 0.05
 logfc_threshold = 0
-genes_of_interest_input = "MMP2, MMP7, MMP15, MMP12, MMP17, MMP1, MMP3, MMP8, MMP14, MMP9"
+genes_of_interest_input = "MMP2, MMP7, MMP15"
 plot_width = 12
 plot_height = 10
 upregulated_color = "crimson"

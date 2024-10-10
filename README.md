@@ -12,12 +12,6 @@ This repository contains a Jupyeter Notebook that generates a **Volcano Plot** f
 - **Gene Annotation**: Automatically annotates genes of interest in the plot.
 - **Customization**: Customize plot size and color scheme for better presentation and clarity.
 
-## Run the Notebook
-
-You can run the notebook directly on Google Colab by clicking the link below:
-
-[Run on Google Colab](https://colab.research.google.com/drive/12v1M7eNUXDem2RFR0TIsBe-NBgKjlny4?usp=sharing)
-
 ## Usage
 
 1. **Upload your GEO `.tsv` file**: Provide your data file to the notebook. The file should contain gene names, logFC, and p-values for each gene.

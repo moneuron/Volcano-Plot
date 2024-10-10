@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12v1M7eNUXDem2RFR0TIsBe-NBgKjlny4?usp=sharing)
+
 # Volcano Plot for Gene Expression Analysis
 ##### by [Mo Shakiba](https://github.com/moneuron)
 

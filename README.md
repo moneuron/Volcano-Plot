@@ -25,7 +25,7 @@ This repository contains a Jupyeter Notebook that generates a **Volcano Plot** f
 
 ```python
 pval_threshold = 0.05
-logfc_threshold = 0
+logfc_threshold = 0.58
 genes_of_interest_input = "MMP2, MMP7, MMP15"
 plot_width = 12
 plot_height = 10

@@ -40,6 +40,6 @@ non_significant_color = "gray"
 
 **Citation Note:**
 
-Shakiba, M. (2024). moneuron/Volcano-Plot: Volcano-Plot (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.13923664
+Shakiba, M. (2024). moneuron/Volcano-Plot: Volcano-Plot. Zenodo. https://doi.org/10.5281/zenodo.13923663
 
 ---

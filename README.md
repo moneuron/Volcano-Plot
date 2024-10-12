@@ -1,5 +1,5 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12v1M7eNUXDem2RFR0TIsBe-NBgKjlny4?usp=sharing)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13923664.svg)](https://doi.org/10.5281/zenodo.13923664)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13923701.svg)](https://doi.org/10.5281/zenodo.13923701)
 
 # Volcano Plot for Gene Expression Analysis
 ##### by [Mo Shakiba](https://github.com/moneuron)

@@ -21,19 +21,6 @@ This repository contains a Jupyeter Notebook that generates a **Volcano Plot** f
    
 3. **Generate Volcano Plot**: The notebook will plot the volcano plot and automatically label genes of interest with non-overlapping text.
 
-### Example
-
-```python
-pval_threshold = 0.05
-logfc_threshold = 0.58
-genes_of_interest_input = "MMP2, MMP7, MMP14"
-plot_width = 12
-plot_height = 10
-upregulated_color = "crimson"
-downregulated_color = "navy"
-non_significant_color = "gray"
-```
-
 4. **View Results**: The notebook will print a list of upregulated, downregulated, and non-significant genes of interest and display the volcano plot.
 
 

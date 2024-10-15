@@ -36,10 +36,8 @@ non_significant_color = "gray"
 
 4. **View Results**: The notebook will print a list of upregulated, downregulated, and non-significant genes of interest and display the volcano plot.
 
----
 
-**Citation Note:**
-
+## Citation
+```
 Shakiba, M. (2024). moneuron/Volcano-Plot: Volcano-Plot. Zenodo. https://doi.org/10.5281/zenodo.13923663
-
----
+```

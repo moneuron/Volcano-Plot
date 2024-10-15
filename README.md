@@ -16,10 +16,10 @@ This repository contains a Jupyeter Notebook that generates a **Volcano Plot** f
    
 4. **Generate Volcano Plot**: The notebook will plot the volcano plot and automatically label genes of interest.
 
-## Example output
-![Volcano Plot](example.png)
-
 ## Citation
 ```
 Shakiba, M. (2024). moneuron/Volcano-Plot: Volcano-Plot. Zenodo. https://doi.org/10.5281/zenodo.13923663
 ```
+
+## Example output
+![Volcano Plot](example.png)

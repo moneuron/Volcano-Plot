@@ -18,10 +18,11 @@ This repository contains a Jupyeter Notebook that generates a **Volcano Plot** f
 1. **Upload your GEO `.tsv` file**: Provide your data file to the notebook. The file should contain gene names, logFC, and p-values for each gene.
    
 2. **Adjust parameters**: Customize the p-value threshold, log fold change threshold, plot dimensions, and colors using the interactive input form in the notebook.
-   
-3. **Generate Volcano Plot**: The notebook will plot the volcano plot and automatically label genes of interest with non-overlapping text.
 
-4. **View Results**: The notebook will print a list of upregulated, downregulated, and non-significant genes of interest and display the volcano plot.
+3. **View Results**: The notebook will print a list of upregulated, downregulated, and non-significant genes of interest.
+   
+4. **Generate Volcano Plot**: The notebook will plot the volcano plot and automatically label genes of interest.
+
 
 
 ## Citation

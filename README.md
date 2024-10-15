@@ -6,13 +6,6 @@
 
 This repository contains a Jupyeter Notebook that generates a **Volcano Plot** for visualizing differential gene expression data, typically from RNA-Seq or microarray experiments.
 
-## Features
-
-- **User Inputs**: Upload your GEO `.tsv` file and provide gene names of interest, p-value threshold, log fold change (logFC) threshold, plot size, and custom colors.
-- **Significance Filtering**: The code identifies genes of interest by selecting the minimum p-value across replicates.
-- **Gene Annotation**: Automatically annotates genes of interest in the plot.
-- **Customization**: Customize plot size and color scheme for better presentation and clarity.
-
 ## Usage
 
 1. **Upload your GEO `.tsv` file**: Provide your data file to the notebook. The file should contain gene names, logFC, and p-values for each gene.

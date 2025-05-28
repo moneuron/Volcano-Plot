@@ -2,7 +2,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13923663.svg)](https://doi.org/10.5281/zenodo.13923663)
 
 # Volcano Plot for Gene Expression Analysis
-##### by [Mo Shakiba](https://github.com/moneuron)
 
 This repository contains a Jupyeter Notebook that generates a **Volcano Plot** for visualizing differential gene expression data, typically from RNA-Seq or microarray experiments.
 

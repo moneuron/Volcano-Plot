@@ -19,6 +19,7 @@ This repository contains a Jupyeter Notebook that generates a **Volcano Plot** f
 ```
 Shakiba, M. (2024). moneuron/Volcano-Plot: Volcano-Plot. Zenodo. https://doi.org/10.5281/zenodo.13923663
 ```
+[𝕏 (Twitter)](https://x.com/moneuron) [ResearchGate](https://www.researchgate.net/profile/Mo-Shakiba)
 
 ## Example output
 ![Volcano Plot](example.png)
